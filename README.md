@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist - Python, SQL, Machine Learning - Degree in Physics
 ------------------------------------------------------------------
 
-I've been coding since 2017, but recently decided to fully pivot myself to a career in tech by completing a coding bootcamp in Data Science at BrainStation.
+I've been coding since 2017, but recently decided to fully pivot myself to a career in tech by completing a coding bootcamp in Data Science at BrainStation. I'm a talented, curious, and versatile individual, and I'm hungry for a career that will push me to the limits of my ability, and beyond.
 
-* 🌍  I'm interested in remote work
+* 🌍  I'm  looking to work remotely, in the EEZ, or everywhere
 * ✉️  You can contact me at [sven.s.ostertag@gmail.com](mailto:sven.s.ostertag@gmail.com)
 * 🧠  I'm learning everything Data Science
 * ✨  I like reading, traveling, and writing sci-fi
